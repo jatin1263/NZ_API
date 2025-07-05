@@ -6,7 +6,8 @@ using NZ_API.Store;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-// testing
+// testing local to remote
+// testing 2  reomte to local
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
