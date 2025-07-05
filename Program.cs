@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 // testing local to remote
 // testing 2  reomte to local 
-//hbjbhj
+
 
 
 //testing 4 from remote
